@@ -3,6 +3,19 @@ entries:
   proxysql:
   - apiVersion: v2
     appVersion: 0.0.1
+    created: "2023-05-31T08:19:43.16053113Z"
+    description: A Helm chart for Kubernetes
+    digest: 3daad1ccc22c1c8062c397a93db0b7ba686dde411c8f30661ec375317ed003a9
+    maintainers:
+    - email: tomas@reservio.com
+      name: steache
+    name: proxysql
+    type: application
+    urls:
+    - https://github.com/reservio/helm-charts/releases/download/proxysql-0.0.2/proxysql-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
+    appVersion: 0.0.1
     created: "2023-05-31T08:16:55.333079302Z"
     description: A Helm chart for Kubernetes
     digest: 9912ef9f4bf39aa132abb6f4f2842de1f726b94dc4f32f104bf9a3113180a74d
@@ -14,4 +27,4 @@ entries:
     urls:
     - https://github.com/reservio/helm-charts/releases/download/proxysql-0.0.1/proxysql-0.0.1.tgz
     version: 0.0.1
-generated: "2023-05-31T08:16:55.333084203Z"
+generated: "2023-05-31T08:19:43.16053793Z"
